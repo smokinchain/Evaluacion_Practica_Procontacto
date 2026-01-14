@@ -1,4 +1,12 @@
-# Evaluacion_Practica_Procontacto <img src="LOGO.png" align="left"/>
+# Evaluación Práctica <img src="LOGO.png" align="right"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Interview-Challenge-blueviolet" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-green" />
+  <img src="https://img.shields.io/badge/SOAP-API-lightgrey" />
+</p>
 
 Repositorio correspondiente a la resolución de una serie de ejercicios teóricos y prácticos solicitados como parte de un proceso de evaluación técnica.
 
@@ -20,10 +28,13 @@ Repositorio correspondiente a la resolución de una serie de ejercicios teórico
 
 Este ejercicio estuvo orientado a la instalación y configuración del entorno de trabajo necesario para el desarrollo del resto de los ejercicios.
 
-Se realizó la instalación de:
+Se realizó la instalación y configuración de:
 - Visual Studio Code
 - Git
 - Git Bash
+- Postman
+
+_Adicionalmente, se trabajó con la plataforma Salesforce, trailhead y Draw.io._
 
 ---
 
